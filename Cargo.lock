@@ -977,6 +977,8 @@ dependencies = [
 name = "warp-hello-world"
 version = "0.1.0"
 dependencies = [
+ "base64",
+ "bytes",
  "env_logger",
  "log",
  "serde_json",
